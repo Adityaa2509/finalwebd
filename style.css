@@ -126,35 +126,35 @@ grid-area: main;
 text-align: left;}
 .sidebar{background-color: white;
 grid-area: sidebar}
-.box1{background-color: antiquewhite;
+.box1{background-color: #caf0f8;
 grid-area: box1;
 padding-left:10px;
 }
-.box2{background-color:  antiquewhite;
+.box2{background-color:  #caf0f8;
 grid-area: box2;
 padding-left:10px;
 
 }
-.box3{background-color:  antiquewhite;
+.box3{background-color:  #caf0f8;
 grid-area: box3;
 padding-left:10px;}
-.box4{background-color:  antiquewhite;
+.box4{background-color:  #caf0f8;
     grid-area: box4;
     padding-left:10px;
 }
-    .box5{background-color:  antiquewhite;
+    .box5{background-color:  #caf0f8;
     grid-area: box5;
     padding-left:10px;}
-    .box6{background-color:  antiquewhite;
+    .box6{background-color:  #caf0f8;
     grid-area: box6;
     padding-left:10px;}
-    .box7{background-color:  antiquewhite;
+    .box7{background-color:  #caf0f8;
         grid-area: box7;
         padding-left:10px;}
-        .box8{background-color:  antiquewhite;
+        .box8{background-color:  #caf0f8;
         grid-area: box8;
         padding-left:10px;}
-        .box9{background-color:  antiquewhite;
+        .box9{background-color:  #caf0f8;
         grid-area: box9;
         padding-left:10px;}
 .footer{background-color: black;
